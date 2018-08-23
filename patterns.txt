@@ -1,0 +1,6 @@
+ES5:
+  https://www.dofactory.com/javascript/chain-of-responsibility-design-pattern
+ES6:
+  http://loredanacirstea.github.io/es6-design-patterns/#chain-of-responsibility
+  
+http://cpp-reference.ru/patterns/creational-patterns/factory-method/
